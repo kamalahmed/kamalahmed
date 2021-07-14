@@ -11,11 +11,12 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 </p>
 
 #Portfolio
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 <p>
 Currently I am working full time on <a target="_blank" href="https://github.com/WPDevelopers/embedpress/graphs/contributors">EmbedPress</a> at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a> <br>
 Previously, I have contributed to many projects. Notable ones are the following projects.
-    <ul>
+<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+
+<ul>
     <li><a target="_blank" href="https://github.com/WPDevelopers/essential-addons-for-elementor-lite/graphs/contributors">Essential Addons for Elementor</a></li>
     <li><a target="_blank" href="https://wordpress.org/plugins/oneelements-ultimate-addons-for-elementor">OneElements – Best Elementor Addons
 </a></li>
@@ -25,6 +26,7 @@ Previously, I have contributed to many projects. Notable ones are the following 
 </a></li>
 <li>and more</li>
     </ul>
+
 </p>
 
 <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect</b> 😎</em>
