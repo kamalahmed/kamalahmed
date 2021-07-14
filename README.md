@@ -20,8 +20,6 @@ Previously, I have contributed to many projects. Notable ones are the following 
     <li><a target="_blank" href="https://github.com/WPDevelopers/essential-addons-for-elementor-lite/graphs/contributors">Essential Addons for Elementor</a></li>
     <li><a target="_blank" href="https://wordpress.org/plugins/oneelements-ultimate-addons-for-elementor">OneElements – Best Elementor Addons
 </a></li>
-    <li><a target="_blank" href="https://wordpress.org/plugins/directorist/">Directorist – Business Directory Plugin
-</a></li>
 <li><a target="_blank" href="https://techydevs.com/downloads/aduca-education-wordpress-theme-with-dashboard/">Aduca – Education WordPress Theme with Dashboard
 </a></li>
 <li>and more</li>
