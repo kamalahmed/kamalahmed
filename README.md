@@ -1,4 +1,4 @@
-<img align='right' src="https://avatars.githubusercontent.com/u/6803549?v=4" width="230">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQHu1_XQOI2tdQ/profile-displayphoto-shrink_400_400/0/1623959042367?e=1631750400&v=beta&t=Nbtp0jtq6hTtU8bJg0gC3HACRvEIGpU8E_HryYrDVW4" width="200" style="border-radius:50%;">
 
 ### Oh Hi👋  I'm Kamal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p><em>Senior WordPress Developer at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
