@@ -10,7 +10,7 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 </em>
 </p>
 
-#Portfolio
+# Portfolio
 
 <p>
 Currently I am working full time on <a target="_blank" href="https://github.com/WPDevelopers/embedpress/graphs/contributors">EmbedPress</a> at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a> <br>
