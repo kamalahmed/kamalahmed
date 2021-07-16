@@ -11,6 +11,7 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 </p>
 
 #Portfolio
+
 <p>
 Currently I am working full time on <a target="_blank" href="https://github.com/WPDevelopers/embedpress/graphs/contributors">EmbedPress</a> at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a> <br>
 Previously, I have contributed to many projects. Notable ones are the following projects.
@@ -21,6 +22,11 @@ Previously, I have contributed to many projects. Notable ones are the following 
     <li><a target="_blank" href="https://wordpress.org/plugins/oneelements-ultimate-addons-for-elementor">OneElements – Best Elementor Addons
 </a></li>
 <li><a target="_blank" href="https://techydevs.com/downloads/aduca-education-wordpress-theme-with-dashboard/">Aduca – Education WordPress Theme with Dashboard
+</a></li>
+    <li><a target="_blank" href="https://techydevs.com/downloads/minzel-creative-responsive-multipurpose-wordpress-theme/">Minzel – Creative Responsive Multipurpose WordPress Theme
+</a></li>
+<li><a target="_blank" href="https://techydevs.com/downloads/costar-coronavirus-wordpress-theme-for-medical-service/">Costar – Coronavirus WordPress Theme for Medical Service
+
 </a></li>
 <li>and more</li>
     </ul>
