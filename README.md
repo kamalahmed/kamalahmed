@@ -3,7 +3,7 @@
 ### Oh Hi👋  I'm Kamal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p>I am a full-stack web developer from Sylhet, Bangladesh. Find me on <a target="_blank" href="https://www.linkedin.com/in/kamalahmedpms/">LinkedIn</a>
 <hr>
-<p><em>Senior WordPress Developer at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
+<p><em>Lead WordPress Developer at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
 <br>
 Founder & Lead Developer at <a target="_blank" href="https://techydevs.com">TechyDevs</a>
 <br>
