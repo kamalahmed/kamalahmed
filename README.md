@@ -9,7 +9,7 @@
         <br/>
         Lead WordPress Developer (part-time) at <a target="_blank" href="https://wpdeveloper.com/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
 <br/>
-Founder & Lead Developer at <a target="_blank" href="https://techydevs.com">TechyDevs</a>
+Founder & Lead Developer at TechyDevs<a target="_blank" href="https://techydevs.com"><img src="https://techydevs.com/wp-content/themes/techydevs/assets/images/logo@2x.png" width="80"></a>
 <br/>
 Plugin Developer & Translation Contributor at <a target="_blank" href="https://profiles.wordpress.org/kamalahmed/">WordPress.org</a> 
 <br/>
