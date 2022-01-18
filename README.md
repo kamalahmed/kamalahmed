@@ -1,14 +1,18 @@
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQHu1_XQOI2tdQ/profile-displayphoto-shrink_400_400/0/1623959042367?e=1631750400&v=beta&t=Nbtp0jtq6hTtU8bJg0gC3HACRvEIGpU8E_HryYrDVW4" width="200" style="border-radius:50%;">
+<img align='right' src="https://kamalahmed.me/assets/img/kamal.png" width="200" style="border-radius:50%;">
 
 ### Oh Hi👋  I'm Kamal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p>I am a full-stack web developer from Sylhet, Bangladesh. Find me on <a target="_blank" href="https://www.linkedin.com/in/kamalahmedpms/">LinkedIn</a>
 <hr>
-<p><em>Lead WordPress Developer at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
-<br>
+<p>
+    <em>
+        Senior WordPress Engineer (full-time) at rtCamp<a target="_blank" href="https://rtcamp.com/about/"><img src="https://cdn.rtcamp.com/wp-content/uploads/2020/11/site-logo-black.svg" width="140" alt="rtcamp"></a>
+        <br/>
+        Lead WordPress Developer (part-time) at <a target="_blank" href="https://wpdeveloper.com/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
+<br/>
 Founder & Lead Developer at <a target="_blank" href="https://techydevs.com">TechyDevs</a>
-<br>
+<br/>
 Plugin Developer & Translation Contributor at <a target="_blank" href="https://profiles.wordpress.org/kamalahmed/">WordPress.org</a> 
-<br>
+<br/>
 </em>
 </p>
 <hr style="max-width:200px;">
