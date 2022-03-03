@@ -7,7 +7,6 @@
     <em>
         Senior WordPress Engineer (full-time) at rtCamp<a target="_blank" href="https://rtcamp.com/about/"><img src="https://cdn.rtcamp.com/wp-content/uploads/2020/11/site-logo-black.svg" width="140" alt="rtcamp"></a>
         <br/>
-        Lead WordPress Developer (part-time) at <a target="_blank" href="https://wpdeveloper.com/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a>
 <br/>
 Founder & Lead Developer at <a target="_blank" href="https://techydevs.com"><img src="https://techydevs.com/wp-content/themes/techydevs/assets/images/logo@2x.png" width="80"></a>
 <br/>
@@ -19,7 +18,7 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 
 ### Portfolio
 <p>
-Currently I am working full time on rtMedia Pro at rtCamp and part time on <a target="_blank" href="https://github.com/WPDevelopers/embedpress/graphs/contributors">EmbedPress</a>. In past I worked on <a target="_blank" href="https://wordpress.org/plugins/wp-scheduled-posts/">SchedulePress</a> at <a target="_blank" href="https://wpdeveloper.net/"><img src="https://wpdev-media.storage.googleapis.com/wp-content/uploads/2020/04/WPDeveloper-Logo.png" width="150" alt="wpdeveloper"></a> <br>
+Currently I am working full time on rtMedia Pro at rtCamp.
 Previously, I have contributed to many projects. Notable ones are the following projects.
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
