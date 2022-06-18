@@ -20,8 +20,8 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 
 ### Portfolio
 <p>
-Currently I am working full time on rtMedia Pro at rtCamp.
-Previously, I have contributed to many projects. Notable ones are the following projects.
+Currently I am working full time on my hobby project at TecyDevs.
+Previously, I have contributed to many projects. I worked on rtMedia plugins and its addons before. Notable projects are the following projects.
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
 <ul>
