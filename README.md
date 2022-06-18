@@ -10,7 +10,7 @@
         Former Senior WordPress Engineer at rtCamp<a target="_blank" href="https://rtcamp.com/"><img src="https://cdn.rtcamp.com/wp-content/uploads/2020/11/site-logo-black.svg" width="140" alt="rtcamp"></a>
         <br/>
 <br/>
-         Former Lead WordPress Developer at WPDeveloper<a target="_blank" href="https://wpdeveloper.com/"></a>
+         Former Lead WordPress Developer at <a target="_blank" href="https://wpdeveloper.com/">WPDeveloper</a>
         <br/>
 Plugin Developer & Translation Contributor at <a target="_blank" href="https://profiles.wordpress.org/kamalahmed/">WordPress.org</a> 
 <br/>
