@@ -5,11 +5,13 @@
 <hr>
 <p>
     <em>
-        Senior WordPress Engineer (full-time) at rtCamp<a target="_blank" href="https://rtcamp.com/about/"><img src="https://cdn.rtcamp.com/wp-content/uploads/2020/11/site-logo-black.svg" width="140" alt="rtcamp"></a>
+        Founder & Lead Developer at <a target="_blank" href="https://techydevs.com"><img src="https://techydevs.com/wp-content/themes/techydevs/assets/images/logo@2x.png" width="80"></a>
+<br/>
+        Former Senior WordPress Engineer at rtCamp<a target="_blank" href="https://rtcamp.com/"><img src="https://cdn.rtcamp.com/wp-content/uploads/2020/11/site-logo-black.svg" width="140" alt="rtcamp"></a>
         <br/>
 <br/>
-Founder & Lead Developer at <a target="_blank" href="https://techydevs.com"><img src="https://techydevs.com/wp-content/themes/techydevs/assets/images/logo@2x.png" width="80"></a>
-<br/>
+         Former Lead WordPress Developer at WPDeveloper<a target="_blank" href="https://wpdeveloper.com/"></a>
+        <br/>
 Plugin Developer & Translation Contributor at <a target="_blank" href="https://profiles.wordpress.org/kamalahmed/">WordPress.org</a> 
 <br/>
 </em>
