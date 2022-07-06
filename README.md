@@ -26,6 +26,10 @@ Previously, I have contributed to many projects. I worked on rtMedia plugins and
 
 <ul>
     <li><a target="_blank" href="https://github.com/WPDevelopers/essential-addons-for-elementor-lite/graphs/contributors">Essential Addons for Elementor</a></li>
+    <li><a target="_blank" href="https://wordpress.org/plugins/buddypress-media/">rtMedia for WordPress, BuddyPress and bbPress
+</a></li>
+<li><a target="_blank" href="https://wordpress.org/plugins/embedpress/">EmbedPress – Embed Anything & Upload PDF in Gutenberg & Elementor
+</a></li>
     <li><a target="_blank" href="https://wordpress.org/plugins/oneelements-ultimate-addons-for-elementor">OneElements – Best Elementor Addons
 </a></li>
 <li><a target="_blank" href="https://techydevs.com/downloads/aduca-education-wordpress-theme-with-dashboard/">Aduca – Education WordPress Theme with Dashboard
