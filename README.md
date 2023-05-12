@@ -1,7 +1,7 @@
 <img align='right' src="https://kamalahmed.me/assets/img/kamal.png" width="200" style="border-radius:50%;">
 
 ### Oh Hi👋  I'm Kamal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<p>I am a full-stack WordPress developer working since 2013. Currently living in Dubai, UAE. Find me on <a target="_blank" href="https://www.linkedin.com/in/kamalahmedpms/">LinkedIn</a>
+<p>I am a full-stack WordPress developer working since 2013. Currently living in Sharjah, UAE. Find me on <a target="_blank" href="https://www.linkedin.com/in/kamalahmedpms/">LinkedIn</a>
 <hr>
 <p>
 <em>
