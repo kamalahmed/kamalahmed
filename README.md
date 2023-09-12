@@ -5,15 +5,13 @@
 <hr>
 <p>
 <em>
-Founder of a hobby project & Lead Developer at TechyDevs <a target="_blank" href="https://techydevs.com"><img src="https://techydevs.com/wp-content/themes/techydevs/assets/images/logo@2x.png" style="max-width:140px;"></a>
+Part-time Full-Stack WordPress Engineer at  <a target="_blank" href="https://dirayaah.com/">Dirayaah Smart Techonologies</a>
 <br/>
-Part-time Full-Stack WordPress Engineer at Dirayaah Smart Techonologies <a target="_blank" href="https://dirayaah.com/"><img src="https://dirayaah.com/wp-content/uploads/2022/07/Dirayah-Logo-English-850x290-white-300x101.png.webp" width="140" alt="sitecare"></a>
-<br/>
-Former WordPress Developer at SiteCare<a target="_blank" href="https://sitecare.com/"><img src="https://sitecare.com/wp-content/uploads/2022/09/sitecare-logo-2a.png" width="140" alt="sitecare"></a>
+Former WordPress Developer at <a target="_blank" href="https://sitecare.com/">SiteCare</a>
 <br/>
 Former WordPress Developer at <a target="_blank" href="https://https://neilpatel.com/ubersuggest">Ubersuggest by Neil Patel</a>
 <br/>
-Former Senior WordPress Engineer at<a target="_blank" href="https://rtcamp.com/"><img src="https://cdn.rtcamp.com/wp-content/uploads/2020/11/site-logo-white.svg" width="140" alt="rtCamp"></a>
+Former Senior WordPress Engineer at <a target="_blank" href="https://rtcamp.com/">rtCamp</a>
 <br/>
 Former Lead WordPress Developer at <a target="_blank" href="https://wpdeveloper.com/">WPDeveloper</a>
 <br/>
