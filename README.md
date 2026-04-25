@@ -5,7 +5,11 @@
 <hr>
 <p>
 <em>
-Part-time Full-Stack WordPress Engineer at  <a target="_blank" href="https://dirayaah.com/">Dirayaah Smart Techonologies</a>
+   Lead WordPress Engineer at  <a target="_blank" href="https://nara.ae/">Nara Hospitality Group</a>
+<br/>
+Former WordPress Developer at  <a target="_blank" href="https://kahunas.io/">Kahunas</a>
+<br/>
+Former Part-time Full-Stack WordPress Engineer at  <a target="_blank" href="https://dirayaah.com/">Dirayaah Smart Techonologies</a>
 <br/>
 Former WordPress Developer at <a target="_blank" href="https://sitecare.com/">SiteCare</a>
 <br/>
@@ -23,11 +27,13 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 
 ### Portfolio
 <p>
-Currently I am working part-time at Dirayaah Smart Techonologies where provide provide WordPress Development Support to various types of clients sties including bug fix, new feature developement, modifiying existing themes and plugins etc. I learn and experiment new tech on my free time. I also work on my hobby project at TecyDevs. 
+Currently I am working as a Lead WordPress Engineer at Nara Hospitality Group, Dubai, UAE. I have also recently worked at Dirayaah Smart Techonologies where provide provide WordPress Development Support to various types of clients sties including bug fix, new feature developement, modifiying existing themes and plugins etc. I learn and experiment new tech on my free time. I also work on my hobby project at TecyDevs. 
 Previously, I have contributed to many projects. I worked at Ubersuggest by Neil Patel for integrating their SEO service into WordPress. I worked on rtMedia plugins and its addons before. Notable projects are the following projects.
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
 <ul>
+    <li><a target="_blank" href="https://invoicer.kamalahmed.me/">Invoicer - Modern Invoice Maker Web App - PWA</a></li>
+     <li><a target="_blank" href="https://ibrain.kamalahmed.me/">iBrain - Brain Traing Web App</a></li>
     <li><a target="_blank" href="https://github.com/WPDevelopers/essential-addons-for-elementor-lite/graphs/contributors">Essential Addons for Elementor</a></li>
     <li><a target="_blank" href="https://wordpress.org/plugins/buddypress-media/">rtMedia for WordPress, BuddyPress and bbPress
 </a></li>
