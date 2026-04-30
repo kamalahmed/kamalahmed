@@ -32,7 +32,6 @@ Previously, I have contributed to many projects. I worked at Ubersuggest by Neil
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
 <ul>
-   https://github.com/kamalahmed/licensekit
     <li><a target="_blank" href="https://invoicer.kamalahmed.me/">Invoicer - Modern Invoice Maker Web App - PWA</a></li>
      <li><a target="_blank" href="https://ibrain.kamalahmed.me/">iBrain - Brain Traing Web App</a></li>
    <li><a target="_blank" href="https://github.com/kamalahmed/licensekit">LicenseKit - A self-hosted licensing and update server for WordPress plugins and themes</a></li>
