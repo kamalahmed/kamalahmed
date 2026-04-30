@@ -28,7 +28,7 @@ Plugin Developer & Translation Contributor at <a target="_blank" href="https://p
 ### Portfolio
 <p>
 Currently I am working as a Lead WordPress Engineer at Nara Hospitality Group, Dubai, UAE. I have also recently worked at Dirayaah Smart Techonologies where provide provide WordPress Development Support to various types of clients sties including bug fix, new feature developement, modifiying existing themes and plugins etc. I learn and experiment new tech on my free time. I also work on my hobby project at TecyDevs. 
-Previously, I have contributed to many projects. I worked at Ubersuggest by Neil Patel for integrating their SEO service into WordPress. I worked on rtMedia plugins and its addons before. Notable projects are the following projects.
+Previously, I have contributed to many projects. I worked at Ubersuggest by Neil Patel for integrating their SEO service into WordPress. I worked on rtMedia plugins and its addons before. I created many opensource and private projects. Some of my notable projects are the following projects.
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
 <ul>
